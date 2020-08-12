@@ -1,0 +1,263 @@
+#about{
+  text-align: center;
+  padding: 7% 26%;
+}
+.conbutton{
+  background-color: #17c8c3;
+  color:white;
+}
+.progress-bar{
+  background-color: #17c8c3;
+}
+.nav-link{
+  margin-left:20px;
+}
+.skillcol{
+  padding-top: 90px;
+}
+.sig{
+  height: 120px;
+  width: 200px;
+}
+
+#tag{
+  background-color: black;
+}
+
+.ca{
+  background-color: black;
+  color: white;
+}
+
+#enquiry{
+  background-color: lightgrey;
+  text-align: center;
+  padding:7% 26%;
+}
+
+/* form{
+    padding:3% 26%;
+} */
+
+.c{
+  height: 50px;
+}
+
+#quotes{
+    padding:7% 16%;
+  text-align: center;
+  background-color:  #17c8c3;
+  color:white;
+}
+.container-fluid.qut{
+  padding: 10% 0%;
+}
+
+#skills{
+    padding: 3% 12%;
+}
+
+#menu{
+  padding: 7% 12%;
+}
+#vedio{
+  padding: 7% 12%;
+  text-align: center;
+}
+img{
+  height: 100%;
+  width:100%;
+}
+.ld{
+  color: grey;
+text-decoration: none;
+}
+.fa-arrow-down{
+  box-shadow: 2px 2px 4px #000000;
+
+}
+
+.fa-arrow-down:hover{
+  transform: scale(1.2);
+
+  /* font-size: 30px; */
+}
+
+#strip{
+  padding: 7% 8%;
+  background-color: #17c8c3;
+  color: white;
+}
+ .fas{
+   font-size: 2rem;
+ }
+.td1{
+  padding-right: 10%;
+}
+#strip2{
+  padding: 7% 8%;
+  /* background-color: green;
+  color: white; */
+}
+video{
+  height: 800px;
+  width: 800px;
+  /* padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%; */
+  /* background-color: lightgrey; */
+}
+/* video poster{
+  height: 100%;
+  width: 100%;
+} */
+.embed-responsive-item{
+  padding: 1%;
+  background-color: grey;
+}
+.titletext{
+  padding-right: 7%;
+  padding-top:7%;
+}
+
+@media (min-width:991px) and (max-width:1191px) {
+  .navbar-toggler-icon{
+    font-size: 3rem;
+  }
+  .nav-link{
+    font-size: 1.5rem;
+  }
+  .fa-dice-d20{
+    font-size: 4rem;
+  }
+  .titletext{
+    padding: 7% 10%;
+  }
+  .bigh{
+    font-size: 3.5rem;
+  }
+  .bighl{
+    font-size: 1.2rem;
+  }
+  .conbutton{
+    font-size: 2.5rem;
+  }
+  #skills{
+      padding: 3% 2%;
+  }
+  #enquiry{
+
+    padding:7% 4%;
+  }
+  h2{
+    font-size: 3rem;
+  }
+  p{
+    font-size: 1.2rem;
+  }
+  h4{
+    font-size: 1.45rem;
+  }
+  h5{
+    font-size: 1.2rem;
+  }
+  #about{
+
+    padding: 7% 4%;
+  }
+  .sig{
+    height: 240px;
+    width: 400px;
+  }
+  .fas{
+    font-size: 3rem;
+  }
+   .stricon{
+     padding-top: 40px;
+   }
+   #vedio{
+     padding: 7% 0.5%;
+   }
+   .ved{
+     padding:0 4%
+   }
+   .menubox{
+     padding: 5% 0;
+   }
+   #quotes{
+       padding:7% 6%;
+   }
+}
+
+
+@media (max-width:990px) {
+  .navbar-toggler-icon{
+    font-size: 4rem;
+  }
+  .nav-link{
+    font-size: 2rem;
+  }
+  .fa-dice-d20{
+    font-size: 6rem;
+  }
+  .titletext{
+    padding: 7% 10%;
+  }
+  .bigh{
+    font-size: 4.5rem;
+  }
+  .bighl{
+    font-size: 1.5rem;
+  }
+  .conbutton{
+    font-size: 2.5rem;
+  }
+  #skills{
+      /* padding: 3% 2%; */
+      padding-left: 2%;
+      padding-right: 2%;
+      padding-bottom: 4%;
+  }
+  #enquiry{
+
+    padding:7% 4%;
+  }
+  h2{
+    font-size: 4rem;
+  }
+  p{
+    font-size: 1.4rem;
+  }
+  h4{
+    font-size: 1.7rem;
+  }
+  h5{
+    font-size: 1.4rem;
+  }
+  #about{
+
+    padding: 7% 4%;
+  }
+  .sig{
+    height: 360px;
+    width: 500px;
+  }
+  .fas{
+    font-size: 4rem;
+  }
+  .stricon{
+    padding-top: 60px;
+  }
+  #vedio{
+    padding: 7% 0.5%;
+  }
+  .ved{
+    padding:0 4%
+  }
+  .menubox{
+    padding: 8% 0;
+  }
+  #quotes{
+      padding:7% 4%;
+  }
+}
